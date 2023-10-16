@@ -1,4 +1,4 @@
-the goal of this project is to determine the amount (using start/end times and heart rates) and type of physical activity carried out by an individual
+The goal of this project is to determine the amount (using start/end times and heart rates) and type of physical activity carried out by an individual
 
 Specific Requirements
 
